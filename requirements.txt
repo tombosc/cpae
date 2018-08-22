@@ -1,0 +1,26 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+# h5py=2.6.0=np111py27_2
+# hdf5=1.8.17=1
+# openblas=0.2.19=0
+# protobuf=3.2.0=py27_0
+# requests=2.12.4=py27_0
+# scipy=0.18.1=np111py27_1
+# snowballstemmer=1.2.1=py27_0
+# toolz=0.8.2=py27_0
+# ujson=1.35=py27_0
+pip
+jupyter=1.0.0=py27_3
+jupyter_client=4.4.0=py27_0
+jupyter_console=5.0.0=py27_0
+jupyter_core=4.2.1=py27_0
+matplotlib=2.0.0=np111py27_0
+numpy=1.11.3=py27_0
+pandas=0.19.2=np111py27_1
+pygpu=0.7.3=np111py27_0
+python=2.7.13=0
+nltk=3.2.2
+blocks=0.2.0
+fuel=0.2.0
+Theano=0.10.0b3

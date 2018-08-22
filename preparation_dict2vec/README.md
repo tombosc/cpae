@@ -1,0 +1,1 @@
+Firstly, install dict2vec, downloadable [here](https://github.com/tca19/dict2vec). Then, look at `prepare_dict2vec.sh`: it contains the whole pipeline to transform a `.json` dictionary into pair files readable by dict2vec executable. Although, you need to modify the last line which contains a commented out dict2vec command. Then, you can run dict2vec using the new pair files.
